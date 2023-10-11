@@ -2,6 +2,8 @@
 
 Submission Belajar Membuat Aplikasi Flutter untuk Pemula Dicoding
 
+Rating ⭐⭐⭐⭐⭐
+
 ## Tampilan Aplikasi
 
 <div>
